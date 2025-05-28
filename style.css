@@ -1,0 +1,32 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 24px;
+    font-size: 20px;
+}
+
+body {
+    background-color: lightcyan;
+}
+
+#content {
+    width: 40%;
+    margin: 5% auto;
+    padding: 5%;
+    border-radius: 5%;
+    background-color: azure;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+}
+#ingredients {
+    background-color: lightpink;
+    padding: 2%;
+}
+#ingredients h2 {margin: 0;}
+
+li {
+    margin: 2%;
+}
